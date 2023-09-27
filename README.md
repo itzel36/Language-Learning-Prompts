@@ -32,14 +32,12 @@ AI로 비용 없이 외국어를 습득하는 프로젝트의 일환으로 만�
 ## 사용방법
 - 이 프롬프트는 3.5에서도 무난히 작동합니다.
 - 하지만 장기적으로 세션을 사용할 경우 4에서 더 뛰어난 성능을 보입니다.
+-Speak, webpilot 같은 플러그인과 함께 사용하고 직접 chatgpt 앱으로 말하면서 쓴다면 더욱 큰 효과를 볼 수 있습니다.
 
-프롬프트를 복사 붙여 넣기 하신 후 
-먼저 A1~C2까지의 자신의 언어 레벨을 넣어줍니다.
+프롬프트를 복사 붙여 넣기 하신 후, 먼저 A1~C2까지의 자신의 언어 레벨을 넣어줍니다.
 A1~A2인 경우 강의형식으로 먼저 진행합니다.
 
-- Speak, webpilot 같은 플러그인과 함께 사용하고 직접 chatgpt 앱으로 말하면서 쓴다면 더욱 큰 효과를 볼 수 있습니다.
 
 [사용 결과 예시]
  ![image](https://github.com/itzel36/Language-Learning-Prompts/assets/131585816/af75c0cd-4867-405e-afe8-15d877d6f268)
- ![image](https://github.com/itzel36/Language-Learning-Prompts/assets/131585816/04165e96-76a9-4ccc-a0b3-aca1687b5e63)
 
